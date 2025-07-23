@@ -1,0 +1,101 @@
+[
+    {
+        "id":1,
+        "name":"Self-Improvement & Habits",
+        "title":"The art of Being Alone",
+        "Author": "Renuka Gavrani",
+        "price":0,
+        "category":"Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFWgX7_Kd73brfBaZnOvu5H6f68eK7RccoLQ&s"
+    },
+    {
+        "id":2,
+        "name":"Self-Improvement & Habits",
+        "title":"Atomic Habits",
+        "Author": "James Clear",
+        "price":0,
+        "category":"Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WdZdi0T7Hn_y_k65LTX-HKK-CuhFi-TttA&s"
+    },
+    {
+        "id":3,
+        "name":"Self-Improvement & Habits",
+        "title":"The 7 Habits of Highly Effective People",
+        "Author": "Stephen R. Covey",
+        "price":150,
+        "category":"Self-Improvement",
+        "image":"https://m.media-amazon.com/images/I/61fc1aOifmL.jpg"
+    },
+    {
+        "id":4,
+        "name":"Financial Freedom & Wealth",
+        "title":"The Psychology of Money ",
+        "Author": " Morgan Housel",
+        "price":0,
+        "category":"Free",
+        "image":"https://austinkleon.com/wp-content/uploads/2023/02/FpSSZtdagAEieD3.jpeg"
+    },
+    {
+        "id":5,
+        "name":"Financial Freedom & Wealth",
+        "title":"Rich Dad Poor Dad",
+        "Author": "Robert Kiyosaki",
+        "price":0,
+        "category":"Free",
+        "image":"https://store.richdad.com/cdn/shop/files/759177_RICHDAD370x440-2_070920_ca09e55a-841c-47ba-8614-52749bd89c53.jpg?v=1678296538"
+    },
+    {
+        "id":6,
+        "name":"Entrepreneurship & Business",
+        "title":"The Lean Startup",
+        "Author": "Eric Ries",
+        "price":300,
+        "category":"Entrepreneurship",
+        "image":"https://m.media-amazon.com/images/I/61fc1aOifmL.jpg"
+    },
+    {
+        "id":7,
+        "name":"Entrepreneurship & Business",
+        "title":"Zero to One",
+        "Author": "Peter Thiel",
+        "price":0,
+        "category":"Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYHx7F6sIW5PF9V36pciifk6xIV0YJBQbrmA&s"
+    },
+    {
+        "id":8,
+        "name":"Mindset & Psychology",
+        "title":"Mindset: The New Psychology of Success",
+        "Author": "Carol S. Dweck",
+        "price":250,
+        "category":"Mindset",
+        "image":"https://m.media-amazon.com/images/I/61fc1aOifmL.jpg"
+    },
+    {
+        "id":9,
+        "name":"Mindset & Psychology",
+        "title":"The Subtle Art of Not Giving a F*ck ",
+        "Author": "Mark Manson",
+        "price":200,
+        "category":"Mindset",
+        "image":"https://m.media-amazon.com/images/I/61fc1aOifmL.jpg"
+    },
+    {
+        "id":10,
+        "name":"Love Stories",
+        "title":"Too Good To Be True",
+        "Author": "Prajkta Kohli",
+        "price":0,
+        "category":"Free",
+        "image":"https://rukminim2.flixcart.com/image/850/1000/xif0q/book/a/w/o/too-good-to-be-true-original-imahayn6hafhg67g.jpeg?q=90&crop=false"
+    },
+    {
+        "id":11,
+        "name":"Love Stories",
+        "title":"It Ends With Us",
+        "Author": "Colleen Hoover",
+        "price":100,
+        "category":"Love Story",
+        "image":"https://m.media-amazon.com/images/I/61fc1aOifmL.jpg"
+    }
+]
