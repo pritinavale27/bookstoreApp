@@ -41,7 +41,7 @@ function Signup() {
   return (
     <>
         <div className='flex h-screen items-center justify-center'>
-        <div  className="border-[1px] shadow-md p-5 rounded-md">
+        <div  className="border-[1px] shadow-md p-5 rounded-md relative">
           <div className="">
             <form onSubmit={handleSubmit(onSubmit)} method="dialog">
             
